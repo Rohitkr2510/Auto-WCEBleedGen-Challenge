@@ -44,55 +44,55 @@ Here are screenshots/pictures of the top 10 images selected from the validation 
 Format (Bounded Boxes Confidence Label)
 
 ### Image-1 ID: img- (6)
-![img- (6)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/627f345e-9f88-453f-9f55-8fabbb82280d)
+![img- (11)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img11.png)
 <br> Bleeding Frame
 <br> tensor([[131.00000, 170.00000, 203.00000, 215.00000,   0.38539,   0.00000]])
 <br> tensor([[131.00000, 148.00000, 204.00000, 216.00000,   0.27617,   0.00000]])
 
 ### Image-2 ID: img- (12)
-![img- (12)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/fcf5e84a-7c90-4ee6-b7b4-13cb748395f6)
+![img- (123)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img123.png)
 <br> Bleeding Frame
 <br> tensor([[ 75.00000, 156.00000, 178.00000, 220.00000,   0.56155,   0.00000]])
 
 ### Image-3 ID: img- (77)
-![img- (77)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/715b16c2-7d5c-40cf-a04a-4dd77e4e1e44)
+![img- (146)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img146.png)
 <br> Bleeding Frame
 <br> tensor([[145.00000,  22.00000, 193.00000,  86.00000,   0.51087,   0.00000]])
 
 ### Image-4 ID: img- (215)
-![img- (215)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/b93d1f0c-d556-44f3-84d8-6508849e37e0)
+![img- (287)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img287.png)
 <br> Bleeding Frame
 <br> tensor([[110.00000, 132.00000, 205.00000, 158.00000,   0.69729,   0.00000]])
 
 ### Image-5 ID: img- (391)
-![img- (391)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/e1046a41-221a-468f-a323-c85fb13de09e)
+![img- (376)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img376.png)
 <br> Bleeding Frame
 <br> tensor([[  9.00000,  15.00000, 222.00000, 224.00000,   0.89529,   0.00000]])
 
 ### Image-6 ID: img- (676)
-![img- (676)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/80f27599-6055-4838-8681-256bb17ec2c1)
+![img- (430)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img430.png)
 <br> Bleeding Frame
 <br> tensor([[ 67.00000,  33.00000, 150.00000, 123.00000,   0.72962,   0.00000]])
 
 ### Image-7 ID: img- (954)
-![img- (954)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/3ea3ad3b-4d09-4567-8561-c47cfee4c86b)
+![img- (49)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img49.png)
 <br> Bleeding Frame
 <br> tensor([[ 82.00000,  88.00000, 165.00000, 154.00000,   0.83264,   0.00000]])
 
 ### Image-8 ID: img- (1078)
-![img- (1078)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/4d6b47b3-078d-41f9-af82-f82cc98d1f51)
+![img- (550)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img550.png)
 <br> Bleeding Frame
 <br> tensor([[ 46.00000,  79.00000,  74.00000, 127.00000,   0.68358,   0.00000]])
 <br> tensor([[ 83.00000, 144.00000, 160.00000, 192.00000,   0.49040,   0.00000]])
 <br> tensor([[135.00000,  41.00000, 176.00000, 105.00000,   0.27353,   0.00000]])
 
 ### Image-9 ID: img- (1146)
-![img- (1146)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/4fa9bb6e-d54d-4092-bcff-0ac6dcc2bf8b)
+![img- (648)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img648.png)
 <br> Bleeding Frame
 <br> tensor([[  1.00000,  43.00000, 119.00000, 161.00000,   0.93680,   0.00000]])
 
 ### Image-10 ID: img- (1213)
-![img- (1213)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/0808bcd9-ef80-407e-8b0c-3b077d57a05e)
+![img- (76)](https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img76.png)
 <br> Bleeding Frame
 <br> tensor([[10.00000,  0.00000, 68.00000, 91.00000,  0.84781,  0.00000]])
 
