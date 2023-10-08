@@ -22,10 +22,9 @@ We employed the YOLOv8 model architecture for this task. We merged both the blee
 We have evaluated the classification model using the following metrics on the validation dataset:
 Metric                 | Value
 ---------------------- | -------------
-Accuracy               | 93.32
-Recall - Bleeding      | 87.78
-Recall - Non-Bleeding  | 98.85
-F1 Score               | 92.92
+Accuracy               | 0.9866412281990051
+Recall                 | 0.9821428656578064
+F1 Score               | 0.9860557317733765
 
 ## Detection Metrics
 The detection model's performance on the validation dataset is assessed using the following metrics:
