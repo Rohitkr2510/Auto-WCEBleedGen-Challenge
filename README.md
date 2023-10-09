@@ -23,11 +23,11 @@ Recall                 | 0.9821428656578064
 F1 Score               | 0.9860557317733765
 
 ### Segmentation Metrics
-|                           |   Mean | Std    |
-|---------------------------|--------|--------|
-| Mean IoU (threshold 0.5)  | 0.6849 | 0.3495 |
-| Average Precision         | 0.3723 | 0.4096 |
-| Mean Average Precision    | 0.3731 |    -   |
+|       Metric              |  value | 
+|---------------------------|--------|
+| IoU                       | 0.3049 |  
+| Average Precision         | 0.3523 |  
+| Mean Average Precision    | 0.3331 |    -   
 
 
 
