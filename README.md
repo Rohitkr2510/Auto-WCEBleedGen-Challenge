@@ -33,7 +33,7 @@ F1 Score               | 0.9860557317733765
 
 ## Some Predicted Image of Validation Dataset
 
-    Image                Ground Truth           Prediction              CAM plot    
+    Image                Mask                 Prediction              CAM plot    
 **1)**<img src="https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/assets/val/img11.png" alt="OriginalImage" width="150"/> <img src="https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/assets/val/masks/11.png" alt="Ground Truth" width="150"/> <img src="https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_10_val_image/img11.png" alt="Bleeding Prediction" width="150"/> <img src="https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/assets/Cam_Plot/val/11.png_attention.png" alt="CAM_PLOT" width="150"/> 
 
 
@@ -100,22 +100,5 @@ F1 Score               | 0.9860557317733765
 
 
 
-## Dataset
-To apply the model to a custom dataset, the data tree should be constructed as follows:
-``` 
-    ├── data
-          ├── images
-                ├── image_1.png
-                ├── image_2.png
-                ├── image_n.png
-          ├── masks
-                ├── image_1.png
-                ├── image_2.png
-                ├── image_n.png
-```
-## CSV generation 
-```
-python data_split_csv.py --dataset your/data/path --size 0.9 
-```
 ## Acknowledgement
-The codes are modified from [U-Net](https://github.com/xq141839/DCSAU-Net)
+The codes are modified from [U-Net](https://github.com/qubvel/segmentation_models.pytorch)
