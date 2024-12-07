@@ -98,7 +98,19 @@ F1 Score               | 0.9860557317733765
 **5)**<img src="https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/assets/test2/A0550.png" alt="OriginalImage" width="200"/> <img src="https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/results/best_5_test2_images/A0550.png" alt="Bleeding Prediction" width="200"/> <img src="https://github.com/Rohitkr2510/Auto-WCEBleedGen-Challenge/blob/main/assets/Cam_Plot/test2/A0550.png_attention.png" alt="CAM_PLOT" width="200"/>
 
 
+## ACHIEVED RANK 11th IN CAPSULE VISION CHALLENGE 2024
 
 
 ## Acknowledgement
-The codes are modified from [U-Net](https://github.com/qubvel/segmentation_models.pytorch)
+As participants in the Auto-WCEBleedGen Version V1 Challenge, we fully comply with
+the competition rules as outlined in [1] and the challenge website. Our methods have used
+the training and test data sets provided in the official release in [2] and [3] to report the
+results of the challenge.
+
+## Citations
+Wang, Gang, Yanfei Chen, Pei An, Hanyu Hong, Jinghu Hu, and Tiange Huang. "UAV-YOLOv8: A small-object-detection model based on improved YOLOv8 for UAV aerial photography scenarios." Sensors 23, no. 16 (2023): 7190.
+
+
+
+
+
