@@ -107,10 +107,66 @@ the competition rules as outlined in [1] and the challenge website. Our methods 
 the training and test data sets provided in the official release in [2] and [3] to report the
 results of the challenge.
 
-## Citations
-Wang, Gang, Yanfei Chen, Pei An, Hanyu Hong, Jinghu Hu, and Tiange Huang. "UAV-YOLOv8: A small-object-detection model based on improved YOLOv8 for UAV aerial photography scenarios." Sensors 23, no. 16 (2023): 7190.
+## Reference
+@article{hub2024auto,
+  title={Auto-WCEBleedGen Version V1 and V2: Challenge, Datasets and Evaluation},
+  author={Handa, Palak and Nautiyal, Divyansh and Chhabra, Deepti and Dhir, Manas and Saini, Anushka and Jha, Shreshtha and Mangotra, Harshita and Pandey, Nishu and Thakur, Advika and others},
+  journal={Authorea Preprints},
+  year={2024},
+  publisher={Authorea},
+ doi          = {10.22541/essoar.171007121.19572474/v1}
+}
+%train
+@misc{palakbleedingtrain,
+  author       = {Palak and
+                  Harshita Mangotra and
+                  Nautiyal, Divyansh and
+                  Jyoti Dhatarwal and
+                  Nidhi Gooel},
+  title        = {WCEbleedGen:  A wireless capsule endoscopy dataset
+                   containing bleeding and non-bleeding frames
+                  },
+  month        = nov,
+  year         = 2023,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.10156571},
+  url          = {https://doi.org/10.5281/zenodo.10156571}
+}
+%test
+@misc{palakbleedingtest,
+  author       = {Handa, Palak and
+                  Pandey, Nishu and
+                  Nautiyal, Divyansh and
+                  Goel, Nidhi and
+                  Gunjan, Deepak},
+  title        = {AutoWCEBleedGen-Test Dataset (Improved)},
+  month        = feb,
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.10642779},
+  url          = {https://doi.org/10.5281/zenodo.10642779}
+}
+@inproceedings{ronneberger2015unet,
+  author    = {Olaf Ronneberger and Philipp Fischer and Thomas Brox},
+  title     = {U-net: Convolutional networks for biomedical image segmentation},
+  booktitle = {Medical Image Computing and Computer-Assisted Intervention--MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III},
+  year      = {2015},
+  publisher = {Springer International Publishing}
+}
 
+@article{abhishek2022resnet18,
+  author    = {Abhishek and Allena Venkata Sai and Dr. Venkateswara Rao Gurrala and Dr. Laxman Sahoo},
+  title     = {Resnet18 model with sequential layer for computing accuracy on image classification dataset},
+  journal   = {International Journal of Creative Research Thoughts (IJCRT)},
+  year      = {2022},
+}
 
-
+@article{kang2023bgf,
+  author    = {Kang, M. and Ting, C. M. and Ting, F. F. and Phan, R. C. W.},
+  title     = {Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection},
+  journal   = {arXiv preprint arXiv:2309.12585},
+  year      = {2023},
+  url       = {https://arxiv.org/abs/2309.12585}
+}
 
 
