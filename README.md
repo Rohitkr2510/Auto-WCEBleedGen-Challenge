@@ -108,7 +108,7 @@ the training and test data sets provided in the official release in [2] and [3] 
 results of the challenge.
 
 ## Reference
-@article{hub2024auto,
+1) @article{hub2024auto,
   title={Auto-WCEBleedGen Version V1 and V2: Challenge, Datasets and Evaluation},
   author={Handa, Palak and Nautiyal, Divyansh and Chhabra, Deepti and Dhir, Manas and Saini, Anushka and Jha, Shreshtha and Mangotra, Harshita and Pandey, Nishu and Thakur, Advika and others},
   journal={Authorea Preprints},
@@ -117,7 +117,7 @@ results of the challenge.
  doi          = {10.22541/essoar.171007121.19572474/v1}
 }
 %train
-@misc{palakbleedingtrain,
+2) @misc{palakbleedingtrain,
   author       = {Palak and
                   Harshita Mangotra and
                   Nautiyal, Divyansh and
@@ -133,7 +133,7 @@ results of the challenge.
   url          = {https://doi.org/10.5281/zenodo.10156571}
 }
 %test
-@misc{palakbleedingtest,
+3) @misc{palakbleedingtest,
   author       = {Handa, Palak and
                   Pandey, Nishu and
                   Nautiyal, Divyansh and
@@ -146,7 +146,7 @@ results of the challenge.
   doi          = {10.5281/zenodo.10642779},
   url          = {https://doi.org/10.5281/zenodo.10642779}
 }
-@inproceedings{ronneberger2015unet,
+4) @inproceedings{ronneberger2015unet,
   author    = {Olaf Ronneberger and Philipp Fischer and Thomas Brox},
   title     = {U-net: Convolutional networks for biomedical image segmentation},
   booktitle = {Medical Image Computing and Computer-Assisted Intervention--MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III},
@@ -154,14 +154,14 @@ results of the challenge.
   publisher = {Springer International Publishing}
 }
 
-@article{abhishek2022resnet18,
+5) @article{abhishek2022resnet18,
   author    = {Abhishek and Allena Venkata Sai and Dr. Venkateswara Rao Gurrala and Dr. Laxman Sahoo},
   title     = {Resnet18 model with sequential layer for computing accuracy on image classification dataset},
   journal   = {International Journal of Creative Research Thoughts (IJCRT)},
   year      = {2022},
 }
 
-@article{kang2023bgf,
+6) @article{kang2023bgf,
   author    = {Kang, M. and Ting, C. M. and Ting, F. F. and Phan, R. C. W.},
   title     = {Bgf-yolo: Enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection},
   journal   = {arXiv preprint arXiv:2309.12585},
